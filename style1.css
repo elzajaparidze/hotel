@@ -1,0 +1,34 @@
+body{
+    background-color: #A2B0D8;
+}
+h1{
+    color: #444;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    display: flex;
+    padding: 150px;
+    margin: 55px;
+    margin-top: -10px;
+}
+img{
+    height: 500px;
+    width: 400px;
+}
+button{
+    border-radius: 10%;
+    background-color: white;
+    color: gray;
+    border: 2px solid gray;
+    margin-left: 160px;
+}
+button:hover{
+    background-color:gray;
+    color: black;
+}
+fieldset{
+    width: 404px;
+}
+footer{
+    margin-bottom: 300px;
+}
